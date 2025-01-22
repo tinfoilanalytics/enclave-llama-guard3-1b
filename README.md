@@ -1,1 +1,1 @@
-# Tinfoil Enclave for llama3.2-1B
+# Tinfoil Enclave for llama-guard3-1B
